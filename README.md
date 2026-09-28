@@ -1,6 +1,6 @@
 # Juno PM
 
-> _(one-line pitch: what Juno does, for whom, in one sentence)_
+> Juno PM is an AI Associate PM that helps RocketShip’s product managers synthesize customer and product signals, draft product requirements, and prioritize risks so they can make faster, better-informed decisions.
 
 _Rita · cohort · Sept.29, 2026_
 
