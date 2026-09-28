@@ -2,7 +2,7 @@
 
 > Juno PM is an AI Associate PM that helps RocketShip’s product managers synthesize customer and product signals, draft product requirements, and prioritize risks so they can make faster, better-informed decisions.
 
-_Rita · cohort · Sept.29, 2026_
+_Rita · AI-Product Management· Sept.29, 2026_
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder.
 
