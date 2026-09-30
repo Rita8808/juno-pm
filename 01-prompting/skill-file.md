@@ -10,7 +10,7 @@ _____
 
 ## Task
 
-_Turn scattered signals from Team threads, Jira tickets, and documents I upload into a clear synthesis the team can act on. Surface the risks and decisions that most deserve attention this week. The one job Juno owns end-to-end._
+_Turn scattered signals from Slack threads, Jira tickets, and documents I upload into a clear synthesis the team can act on. Surface the risks and decisions that most deserve attention this week. The one job Juno owns end-to-end._
 
 _____
 
