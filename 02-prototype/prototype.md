@@ -5,7 +5,8 @@
 ## Prototype link
 
 https://chatgpt.com/s/m_6abd0ef041f8819194f2d4ca9d657787
-From Loveable. https://preview--juno-radar-watch.lovable.app/?__lovable_receipt=mat_6dnw2d8ndc9bst8v0eaxfvv1kd
+From Loveable. https://juno-radar-watch.lovable.app
+
 
 _____
 
